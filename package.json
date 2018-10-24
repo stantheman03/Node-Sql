@@ -1,0 +1,28 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stantheman03/Node-Sql.git"
+  },
+  "keywords": [
+    "node",
+    "modukes"
+  ],
+  "author": "stanley philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stantheman03/Node-Sql/issues"
+  },
+  "homepage": "https://github.com/stantheman03/Node-Sql#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "sql": "^0.78.0"
+  }
+}
